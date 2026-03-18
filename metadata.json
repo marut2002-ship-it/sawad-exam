@@ -1,0 +1,5 @@
+{
+  "name": "ExamPro - ระบบทดสอบความรู้พนักงาน",
+  "description": "ระบบทำข้อสอบออนไลน์สำหรับพนักงาน เชื่อมต่อ Google Sheets พร้อมระบบยืนยันตัวตนด้วยใบหน้าและออกรายงาน PDF",
+  "requestFramePermissions": ["camera"]
+}
